@@ -2,6 +2,7 @@
   include('partials/header.php');
 ?>
     <main>
+
       <section class="banner">
         <div class="container text-white">
           <h1>Ďakujeme</h1>
@@ -14,7 +15,6 @@
           </div>
         </div>
       </section>
-
 
     </main>
     
